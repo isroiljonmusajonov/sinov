@@ -1,2 +1,2 @@
 # sinov
-this is sinov project leam github readme
+biz bularni sinov uchun yozdik
